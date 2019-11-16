@@ -8,7 +8,7 @@ const Layout = ({ className, children }) => {
   return (
     <div className={cx("layout", className)}>
       <Head>
-        <title>Common Good Network</title>
+        <title>Buenas Coffee</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
 
