@@ -4,7 +4,7 @@ import "./index.scss";
 
 const Home = () => (
   <Layout className="home">
-    <h3>Opening January 2020</h3>
+    <h3>Opening March 2020</h3>
     <p>
       <address>
         150 Paularino Ave, Bldg B<br />
